@@ -1,0 +1,15 @@
+C:\Users\Эльвира\Desktop\Test11_18\bin\Debug\net6.0\Test11_18.exe
+C:\Users\Эльвира\Desktop\Test11_18\bin\Debug\net6.0\Test11_18.deps.json
+C:\Users\Эльвира\Desktop\Test11_18\bin\Debug\net6.0\Test11_18.runtimeconfig.json
+C:\Users\Эльвира\Desktop\Test11_18\bin\Debug\net6.0\Test11_18.dll
+C:\Users\Эльвира\Desktop\Test11_18\bin\Debug\net6.0\Test11_18.pdb
+C:\Users\Эльвира\Desktop\Test11_18\obj\Debug\net6.0\Test11_18.csproj.AssemblyReference.cache
+C:\Users\Эльвира\Desktop\Test11_18\obj\Debug\net6.0\Test11_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Эльвира\Desktop\Test11_18\obj\Debug\net6.0\Test11_18.AssemblyInfoInputs.cache
+C:\Users\Эльвира\Desktop\Test11_18\obj\Debug\net6.0\Test11_18.AssemblyInfo.cs
+C:\Users\Эльвира\Desktop\Test11_18\obj\Debug\net6.0\Test11_18.csproj.CoreCompileInputs.cache
+C:\Users\Эльвира\Desktop\Test11_18\obj\Debug\net6.0\Test11_18.dll
+C:\Users\Эльвира\Desktop\Test11_18\obj\Debug\net6.0\refint\Test11_18.dll
+C:\Users\Эльвира\Desktop\Test11_18\obj\Debug\net6.0\Test11_18.pdb
+C:\Users\Эльвира\Desktop\Test11_18\obj\Debug\net6.0\Test11_18.genruntimeconfig.cache
+C:\Users\Эльвира\Desktop\Test11_18\obj\Debug\net6.0\ref\Test11_18.dll
